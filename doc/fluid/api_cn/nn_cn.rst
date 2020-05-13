@@ -11,7 +11,6 @@ paddle.nn
     nn_cn/Conv1D_cn.rst
     nn_cn/Conv2D_cn.rst
     nn_cn/diag_embed_cn.rst
-    nn_cn/interpolate_cn.rst
     nn_cn/Linear_cn.rst
     nn_cn/LogSoftmax_cn.rst
     nn_cn/ReLU_cn.rst

@@ -30,7 +30,6 @@ paddle.tensor
     tensor_cn/erf_cn.rst
     tensor_cn/eye_cn.rst
     tensor_cn/flip_cn.rst
-    tensor_cn/full_cn.rst
     tensor_cn/full_like_cn.rst
     tensor_cn/gather_cn.rst
     tensor_cn/index_select_cn.rst
@@ -70,8 +69,6 @@ paddle.tensor
     tensor_cn/tensordot_cn.rst
     tensor_cn/trace_cn.rst
     tensor_cn/transpose_cn.rst
-    tensor_cn/tril_cn.rst
-    tensor_cn/triu_cn.rst
     tensor_cn/unbind_cn.rst
     tensor_cn/unsqueeze_cn.rst
     tensor_cn/var_cn.rst

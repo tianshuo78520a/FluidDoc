@@ -14,7 +14,6 @@ fluid.dygraph
     dygraph/Conv3DTranspose.rst
     dygraph/CosineDecay.rst
     dygraph/DataParallel.rst
-    dygraph/declarative.rst
     dygraph/disable_dygraph.rst
     dygraph/Dropout.rst
     dygraph/dygraph_to_static_code.rst
